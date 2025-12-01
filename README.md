@@ -43,5 +43,3 @@ This project applies machine learning techniques to predict the solubility of ch
 2. Install dependencies: `pip install -r requirements.txt`  
 3. Open the notebook `solubility_prediction.ipynb` in Jupyter or Google Colab.  
 
-## Repository Structure
-
